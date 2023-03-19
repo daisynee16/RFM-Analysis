@@ -1,0 +1,3 @@
+Project dùng để làm gì, customer segmentation, phân tích profit/revenue, determine quốc gia có highest profit
+Tạo bởi ...
+
