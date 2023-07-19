@@ -50,5 +50,3 @@ From RFM_Segmentation
 Group by CustomerSegmentation
 
 
-
-dbo.sales_sample_data
